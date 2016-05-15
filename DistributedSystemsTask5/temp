@@ -1,0 +1,13 @@
+OS  Chapter 2
+<OS Services for user >
+    user interface <CLI , GUI , Batch >
+    program execution
+    I/O operations
+    file system manipulation
+    communication <info share>
+    error Detection
+
+<OS Services for system >
+    resource allocating
+    accounting <user and HW perspective >
+    protection and security
